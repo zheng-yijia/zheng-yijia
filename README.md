@@ -1,4 +1,4 @@
-### Hi there 👋 I'm yzheng
+### Hi there 👋
 
 - 🔭 I’m currently working on verification of DDR5 chips.
 - 🌱 I’m currently learning systemverilog, python.
