@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on verification of DDR5 chips.
 - 🌱 I’m currently learning systemverilog, python.
 
-![](https://visitor-badge.glitch.me/badge?page_id=zheng-yijia.readme)
+![visitor](https://visitor-badge.glitch.me/badge?page_id=zheng-yijia.readme)
 
 ![](http://antzuhl.cn:4000/get/@zheng-yijia.readme)
 
