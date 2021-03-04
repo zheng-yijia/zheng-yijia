@@ -5,7 +5,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zheng-yijia.readme)
 
-![](http://antzuhl.cn:4000/get/@antzuhl.readme)
+![](http://antzuhl.cn:4000/get/@zheng-yijia.readme)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zheng-yijia&show_icons=true)
 
