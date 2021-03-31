@@ -10,7 +10,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zheng-yijia&show_icons=true)
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=zheng-yijia.readme)
-
+![](https://img.shields.io/badge/Language-Systemverilog-blue)
 <!--
 **zheng-yijia/zheng-yijia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
