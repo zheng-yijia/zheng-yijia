@@ -9,7 +9,7 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=zheng-yijia&show_icons=true&count_private=true&theme=default_repocard)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zheng-yijia&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zheng-yijia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=zheng-yijia.readme)
 
