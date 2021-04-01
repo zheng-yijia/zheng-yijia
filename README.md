@@ -15,6 +15,11 @@
 
 ![](https://img.shields.io/badge/Language-Systemverilog-blue)
 
+
+![](http://antzuhl.cn:4000/get/@zheng-yijia.readme)
+
+![info](https://github-readme-stats.vercel.app/api?username=zheng-yijia&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
 <!--
 **zheng-yijia/zheng-yijia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
